@@ -1,0 +1,40 @@
+
+[[network]]
+two main devices to be aware of(initially)
+server + client
+
+what is a server?
+in computing, a server is a computer program or a device that provides functionality for 
+other programs or devices, called "clients".
+this architecture is called the client-server model, and a single overall computation is 
+distibuted across multiple processes or devices.
+
+so, a server is a provider for a client(service or functionality)
+
+what is a client?
+a client is a piece of computer hardware or software that accesses a service made available by a server.
+the server is often on another computer system, in which case the client accesses the service by way of 
+a network
+
+so basicaly a server is a supplier, and a client is a receiver.
+a lapto can also act as a host(server)
+a website will serve a webpage to a client
+
+API == application programming interface
+
+######################################
+
+ports + protocols
+what is a protocol?
+it is basically a set of rules, used for communication between devices
+
+#####################
+SUMMARY:
+server == apartment building
+client == visitor
+port == room number
+protocol == language spoken in the room
+ip address == street address of building
+dns (domain name system) == phone book translating names to address
+hacker == visitor with hidden agenda(good or bad)
+
