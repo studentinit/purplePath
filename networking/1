@@ -1,0 +1,28 @@
+what is a [[network]]?
+
+a computer network is a digital telecommunications network for sharing resources between nodes.
+which are computing devices that use a common telecommunications technology.
+
+data transmission between nodes is supported over data links consisting of physical cable media.
+such as twisted pair or fibre-optic cables, or by wireless methods such as wifi, microwave transmission,
+or free-space optical communication.
+
+#####################################
+
+why do we have computer networks?
+the answer is in the definition above [sharing resources]
+sneakernet is the old way where you copy a file on a floppy-disk, walk to a printer or someone else's 
+computer and give the floppy-disk to them. (not scalable)
+
+what is a node?
+a computing device[laptops, phones, printers etc.]
+in networking we have specialized devices as well[hubs, switches, routers, firewals etc.]
+
+what is a data limk?
+physical cable such as twisted pair, fibre-optic, wifi or some type of link that allow sharing of 
+resources
+
+###################
+SUMMARY:
+rather than having to physically transporting a floppy-disk or usb drive with resources on it from A to B,
+we use a cable or some kind of mechanism to trasport the resource faster and with less effort
