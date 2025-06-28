@@ -26,3 +26,61 @@ This repository documents my **daily learning**, **hands-on labs**, **tools**, a
 
 ## 🗂️ Folder Structure
 
+/defense/ → Blue team concepts and experiments  
+/homebrew/ → Custom CLI commands and shortcuts  
+/labs/ → Lab writeups (e.g., DVWA brute force)  
+/linux/ → Bash CLI_commands/scripting notes   
+/networking/ → Networking deep dive  
+/notes/ → General cybersecurity roadmap and learning path notes
+/py/ → Python modules (e.g., alert systems) 
+/scripts/ → Red / Blue / Purple team Python scripts  
+/tools/ → Research + usage notes on Nmap, Wireshark, Metasploit etc etc.
+
+
+
+---
+
+## 🚧 Work in Progress
+
+This repo is actively growing. I add new scripts, walkthroughs, tool breakdowns, and AI experiments as I learn and practice.
+
+Currently building toward:
+- Metasploit payload automation
+- Python + AI log summarizers
+- Offensive security + stealth testing
+- Defensive alerting and intrusion detection scripts
+
+---
+
+## Purpose
+
+This project exists to:
+- Track and document my **cybersecurity growth**
+- Act as an extension of my **technical CV**
+- Show real-world thinking in **problem solving, tool creation, and workflow design**
+- Eventually evolve into a reference for **fellow learners, job reviewers, and collaborators**
+
+---
+
+## License
+
+This repository is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Use freely for **personal and educational purposes** — just give credit.  
+**Commercial use is not allowed.**
+
+---
+
+## 🤝 Connect
+
+Want to collaborate, discuss cybersec learning strategies, or build purple team tools together?
+
+📧 Reach me on GitHub or via email (if listed in my GitHub profile).  
+Let's defend, attack, and automate — ethically.
+
+---
+
+**💬 Last Note:**  
+Whether you're a recruiter, teammate, or fellow student:  
+Everything in this repo is built with **curiosity, care, and code.**  
+Thanks for stopping by 🚀
