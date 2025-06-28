@@ -1,0 +1,22 @@
+
+[[network]]
+
+COMMON PORTS + PROTOCOLS|
+________________________
+
+| PORT   | PROTOCOL                                                               | what it does (simple terms)                                                  |
+| ------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| ####   | ###########################                                            | ####################                                                         |
+| 20, 21 | FTP (file transfer protocol)                                           | Used to send or receive files between computers.                             |
+| 22     | SSH (secure shell)                                                     | used to safely access a computer remotely (like opening a command line door) |
+| 23     | telnet                                                                 | like SSH, but not secure(sends data in plain text(old school))               |
+| 25     | SMTP (Simple Mail Transfer Protocol)                                   | Sends emails between servers.                                                |
+| 53     | DNS (domain name system)                                               | translate website names into ip addresses. (like a phonebook)                |
+| 67, 68 | DHCP (dynamic host config protocol) addresses when they join a network | gives devices ip addresses when they join a network                          |
+| 80     | HTTP (hypertext transfer protocol)                                     | loads web pages (unsecure version)                                           |
+| 110    | POP3 (Post Office Protocol)                                            | Used to download emails from a server to your device.                        |
+| 143    | IMAP (internet message access protocol)                                | lets you manage emails on the server (syncs across devices)                  |
+| 443    | HTTPS (HTTP secure)                                                    | secure web browsing. like HTTP but encrypted                                 |
+| 445    | SMB (server message block)                                             | used to share files, printers, etc. on windows networks                      |
+| 3389   | RDP (Remote Desktop Protocol)                                          | Used to control a Windows computer remotely with a visual desktop.           |
+
