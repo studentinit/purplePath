@@ -19,3 +19,6 @@ do not connect between LANs over the internet. this is where routers are used.
 
 |(pc1)   (printer)   (pc2)|
 |-----------------------|
+
+
+switches are used to forward data within a LAN
