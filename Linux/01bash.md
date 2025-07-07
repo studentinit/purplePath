@@ -1,4 +1,5 @@
-inux]]
+[[linux]]
+
 sudo == super user do
 
 	- can run cmd as admin
