@@ -39,18 +39,20 @@ FRAME == L2 TRAILER + DATA + L4 HEADER + L3 HEADER + L2 HEADER
  ----
 structure
 
-| eth header  | packet | eth trailer |
-| ----------- | ------ | ----------- |
-| v           |        | v           |
-| preamble    |        | fcs         |
-| v           |        |             |
-| sfd         |        |             |
-| v           |        |             |
-| destination |        |             |
-| v           |        |             |
-| source      |        |             |
-| v           |        |             |
-| type        |        |             |
+
+| eth header  | byte amnt | packet | eth trailer | byte amnt |
+| ----------- | --------- | ------ | ----------- | --------- |
+| v           |           |        | v           |           |
+| preamble    | 7         |        | fcs         | 4         |
+| v           |           |        |             |           |
+| sfd         | 1         |        |             |           |
+| v           |           |        |             |           |
+| destination | 6         |        |             |           |
+| v           |           |        |             |           |
+| source      | 6         |        |             |           |
+| v           |           |        |             |           |
+| type        | 2         |        |             |           |
+
 
 #### eth header
 
