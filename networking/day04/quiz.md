@@ -101,7 +101,7 @@
 > c == configuration terminal
 
 ### answer
-> c
+> b
 
 ### why
 > "configuration time" does not exist
